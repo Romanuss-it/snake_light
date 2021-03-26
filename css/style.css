@@ -1,0 +1,42 @@
+canvas{
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background:linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+
+#btnStart{
+    width: 150px;
+    height: 50px;
+    text-transform: uppercase;
+    margin-top: 530px;
+    margin-left: -70px;
+
+}
+
+.divCanvas{
+    display: block;
+    width: 608px;
+    height: 608px;
+}
+
+#container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#nav {
+    width: 50px;
+    float: left;
+}
+
+#aside{
+    width: 9%;
+    float: right;
+}
+
+#content{
+    margin: 0 300px 0 200px;
+}
